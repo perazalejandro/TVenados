@@ -2,6 +2,14 @@
 
 Este GitHub público es únicamente el **mapa de emergencia**. El código privado, la firma Android, la copia de Core y los scripts viven en el Recovery Pack privado de Cloudflare. Los videos viven en la USB/disco.
 
+## Descarga oficial para Fire Stick
+
+[Descargar TVenados 1.5.23](https://tvenados.uk/TVenados.apk) · `com.tvenados.app` · versionCode `10572`.
+
+El carrusel principal debe decir **TVenados**, sin «LAB». LAB es sólo para pruebas locales en PC; no se distribuye en este enlace. Usa este enlace y no los APK históricos del repositorio.
+
+SHA-256: `D61A533CF6EAB612C05CEFC21C3EBBD01217757A83EC704BBA9BC447775C86CD`
+
 ## Si se pierde la laptop
 
 1. En una laptop Windows nueva inicia sesión en Gmail, Cloudflare, ChatGPT/Codex y GitHub.
@@ -23,10 +31,6 @@ Este GitHub público es únicamente el **mapa de emergencia**. El código privad
 - **GitHub:** instrucciones públicas para encontrar y usar esas piezas.
 
 Sitios: https://tvenados.uk · https://app.tvenados.uk · https://admin.tvenados.uk · https://core.tvenados.uk
-
-APK estable: **TVenados 1.5.23**, `com.tvenados.app`, versionCode `10572`.
-
-SHA-256: `D61A533CF6EAB612C05CEFC21C3EBBD01217757A83EC704BBA9BC447775C86CD`
 
 La versión 1.5.23 promociona la precarga acotada del carrusel interno de
 Sagas desde LAB, sin cambiar el paquete productivo ni la firma Android.
