@@ -6,7 +6,7 @@ Este GitHub público es únicamente el **mapa de emergencia**. El código privad
 
 1. En una laptop Windows nueva inicia sesión en Gmail, Cloudflare, ChatGPT/Codex y GitHub.
 2. Abre https://admin.tvenados.uk → **Backup / Restore**.
-3. Confirma **LISTO**, **INTEGRIDAD SHA-256 COMPROBADA** y APK **1.5.16**.
+3. Confirma **LISTO**, **INTEGRIDAD SHA-256 COMPROBADA** y APK **1.5.23**.
 4. Descarga **Recovery Pack**; el Backup JSON por sí solo no basta.
 5. Extrae el ZIP y abre su raíz en Codex. Lee `AGENTS.md`, `CODEX_SUMMARY.md`, `README_RESTORE.md` y `RECOVERY_MANIFEST.json`.
 6. Conecta la USB y restaura `D:\TVenados`. Nunca borres ni reorganices multimedia durante la recuperación.
@@ -24,9 +24,12 @@ Este GitHub público es únicamente el **mapa de emergencia**. El código privad
 
 Sitios: https://tvenados.uk · https://app.tvenados.uk · https://admin.tvenados.uk · https://core.tvenados.uk
 
-APK estable: **TVenados 1.5.16**, `com.tvenados.app`, versionCode `10521`.
+APK estable: **TVenados 1.5.23**, `com.tvenados.app`, versionCode `10572`.
 
-SHA-256: `720A22B449B7B495355DFDB813AB64DF1D2783EFCABDFB60D87E711735AF7F98`
+SHA-256: `D61A533CF6EAB612C05CEFC21C3EBBD01217757A83EC704BBA9BC447775C86CD`
+
+La versión 1.5.23 promociona la precarga acotada del carrusel interno de
+Sagas desde LAB, sin cambiar el paquete productivo ni la firma Android.
 
 ## Seguridad
 
